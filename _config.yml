@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  How's it going? My Name is Tian Kiat and I am a software developer specialising in AI, Data Analytics with experience in Business Automation.
+  How's it going? My Name is Tian Kiat and I am a software developer specialising in AI, Data Analytics with experience in Business Process Automation.
+  I am a curious person that always tries to explore and experiment with new technologies and pick up new skills and experience along the way. 
+  Developing games, apps, ML models, dashboards, RPA robots are just some of the things I have done and I am always keen to try something new!
 
-  I am fluent in: <mark>C++</mark>, <mark>C#</mark>, <mark>Python</mark>, <mark>JavaScript</mark>
+  I am fluent in: <mark> C++, C#, Python and JavaScript </mark>
 
 content:
   - title: Projects # Title for the section
@@ -70,7 +72,9 @@ content:
         quote: >
           Using deep learning networks to classify images of BEES!
         description: | # this will include new lines to allow paragraphs
-          This project was started to learn more about deep learning techniques and image classification. I also learned a lot abour <mark>TensorFlow</mark>
+          This project along with my other ML projects was done as part of my elective focus on AI. I learned a lot about the traditional sets of models in ML,
+          and in this project I built a deep learning classifier. This is just the start in my journey to learn more about ML and I look forward to researching
+          and applying more novel solutions to solve real world problems!
       - layout: top-middle
         title: DC Metro Crime Data Exploration and Visualization
         link: github.com/TianKiat/dc-crime-data-exploration
@@ -86,7 +90,8 @@ content:
           Learning Pandas, Seaborn and applying what I learned!
         description: | # this will include new lines to allow paragraphs
           I started this little exercise to apply my knowledge of <mark>Pandas</mark> and <mark>Seaborn</mark> outside of school assignments. I focused on exploring and creating visuals that
-          would aid in hypothesis testing and providing insights to the trends given in the dataset.
+          would aid in hypothesis testing and providing insights to the trends given in the dataset. From this project, I learned to be more client and goal focused
+          when building visualizations, as it is always about telling a story with the huge amounts of data you get.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -108,7 +113,7 @@ content:
     content:
       - layout: left
         title: DigiPen Institute of Technology Singapore
-        caption: 2019 - 2023
+        caption: 2019 - 2022
         sub_title: BSc Computer Science and Game Design
         quote: >
           I was able to combine my love of games with my passion in computer science, this gave be the drive to learn and explore!
