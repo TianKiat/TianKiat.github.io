@@ -71,7 +71,7 @@ content:
           Using deep learning networks to classify images of BEES!
         description: | # this will include new lines to allow paragraphs
           This project was started to learn more about deep learning techniques and image classification. I also learned a lot abour <mark>TensorFlow</mark>
-- layout: top-middle
+      - layout: top-middle
         title: DC Metro Crime Data Exploration and Visualization
         link: github.com/TianKiat/dc-crime-data-exploration
         # link_text: Project Website
