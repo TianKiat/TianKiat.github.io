@@ -1,0 +1,143 @@
+# Site
+repository: tiankiat/tiankiat.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Ng Tian Kiat
+title: Computer Science Undergraduate
+email: ngtiankiat97@gmail.com
+website: https://tiankiat.github.io
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# witter_username: facespics
+github_username:  TianKiat
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: tiankiatng
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  How's it going? My Name is Tian Kiat and I am a software developer specialising in AI, Data Analytics with experience in Business Automation.
+
+  I am fluent in: <mark>C++</mark>, <mark>C#</mark>, <mark>Python</mark>, <mark>JavaScript</mark>
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Deep Learning Image Classification
+        link: github.com/TianKiat/ML-Naive-Bees
+        # link_text: Project Website
+        additional_links:
+          - title:  TianKiat/ML-Naive-Bees
+            icon: fab fa-github
+            url: github.com/TianKiat/ML-Naive-Bees
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Using deep learning networks to classify images of BEES!
+        description: | # this will include new lines to allow paragraphs
+          This project was started to learn more about deep learning techniques and image classification. I also learned a lot abour <mark>TensorFlow</mark>
+- layout: top-middle
+        title: DC Metro Crime Data Exploration and Visualization
+        link: github.com/TianKiat/dc-crime-data-exploration
+        # link_text: Project Website
+        additional_links:
+          - title: TianKiat/dc-crime-data-exploration
+            icon: fab fa-github
+            url: github.com/TianKiat/dc-crime-data-exploration
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Learning Pandas, Seaborn and applying what I learned!
+        description: | # this will include new lines to allow paragraphs
+          I started this little exercise to apply my knowledge of <mark>Pandas</mark> and <mark>Seaborn</mark> outside of school assignments. I focused on exploring and creating visuals that
+          would aid in hypothesis testing and providing insights to the trends given in the dataset.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: PSA Singapore
+        link: www.singaporepsa.com
+        # link_text: boringcompany.com
+        sub_title: Robotics Process Developer and Data Analyst
+        caption: May 2022 - Present
+        quote: >
+          Automating business process and building dashboards by analysing business data.
+        description: | # this will include new lines to allow paragraphs
+            This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving at least 100+ man hours annually.
+            In addition, I was able to conduct and supply teaching materials for data analytics and dashboard building workshops.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: DigiPen Institute of Technology Singapore
+        caption: 2019 - 2023
+        sub_title: BSc Computer Science and Game Design
+        quote: >
+          I was able to combine my love of games with my passion in computer science, this gave be the drive to learn and explore!
+        description: | # this will include new lines to allow paragraphs
+          During my time in DigiPen, I was able to establish a strong foundation in computer science and mathematics. Due to the practical approach of my course,
+          I also gained skills and experience in teamwork, communication, critical problem solving and project management.
+
+  - title: More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Some of my hobbies and interest are:
+      - Fishing
+      - Cycling
+      - Gym & Calisthenics
+      - And plenty of other sports that I am not good at but enjoy playing xD
+
+     # Look at this cool image  
+     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
