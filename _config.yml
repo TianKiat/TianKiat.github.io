@@ -80,7 +80,7 @@ content:
           I was in charge of writing the C++ API and data structures that binded onto our C# scripting layer. I was also the main gameplay programmer.
           
           My main job as a gameplay programmer is to implement a 3D spline system that the player and enemies follow, as well as, create
-          a "choreography" system for scripting of the combat of the game. This included spawning, moving between waypoints and timing of
+          a "choreography" system for scripting the combat of the game. This included spawning, moving between waypoints and timing
           attack patterns of enemies seen in the game.
       - layout: top-middle
         title: Deep Learning Image Classification
@@ -119,10 +119,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my internship in PSA Singapore, I was part of the Container Business Division's Process Re-engineering department.
           In this department, I was put in-charge of developing RPA robots using UiPath that would be rolled out to the different
-          terminals in PSA's ports in order to reduce man-hours needed in completing repititive tasks.
+          port terminals in order to reduce man-hours needed in completing repititive tasks.
 
           Projects:
-          - Automating data entry for containers' extra-activities into business portal
+          - Automating data entry for extra-activities incurred in the transhipment process into business portal
           - Automating report generation to flag low-occupancy yard slots to optimize yard movement planning.
           - Creating Power BI workshop manual with detailed instructions for collecting, cleaning and visualizing data in Power BI dashboards.
 
@@ -141,6 +141,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving at least 100+ man hours annually.
             In addition, I was able to conduct and supply teaching materials for data analytics and dashboard building workshops.
+
+            Additionally, I got to learn and experience how a large organization such as PSA operates their business units. It was very interesting
+            to see how the organization's business units are structured and work together to keep the company on the cutting edge of the world's
+            transhipment industry.
       - layout: left
         title: DigiPen Institute of Technology Singapore
         link: https://www.digipen.edu.sg/
