@@ -48,14 +48,15 @@ linkedin_username: tiankiatng
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  How's it going? I am Tian Kiat, a software developer with 4 years of experience in game development with an interest in AI and data analytics.
+  Hi! <i class="fa-light fa-hand-wave"></i> I am Tian Kiat, a software developer with 4 years of experience in game development with an interest in AI and data analytics.
   I have made games using game engines built from scratch with C/C++/C# and commercial game engines such as Unity and Unreal.
 
   I strongly believe that the curiousity and the drive to never stop learning is the key to success.
-  No one starts out as an expert in anything - the discipline and humility to learn the ropes is where you achieve self-actualization.
+  No one starts out as an expert in anything - the discipline and humility to learn the ropes is how you achieve self-actualization.
   
   During my study in DigiPen, I have gained an interest and curiousity in AI and data analytics. With a strong foundation in linear algebra, calculus
   and statistics, I am very keen to research and learn more about AI techniques and applying them in software and business contexts.
+
 
   Things I have done: Develop games, apps, ML models, BI dashboards, RPA robots.
 
@@ -92,7 +93,7 @@ content:
           Using deep learning networks to classify images of BEES!
         description: | # this will include new lines to allow paragraphs
           This project along with my other ML projects was done as part of my elective focus on AI. I learned a lot about traditional models in ML,
-          and in this project I built a CNN image classifier. I learned a lot about <mark> Keras </mark> in this project.
+          and in this project I built a CNN image classifier. I learned a lot about <mark>Keras</mark> in this project.
           
           This is just the start in my journey to learn more about ML and I look forward to researching
           and applying more novel solutions to solve real world problems!
@@ -120,8 +121,11 @@ content:
           In this department, I was put in-charge of developing RPA robots using UiPath that would be rolled out to the different
           terminals in PSA's ports in order to reduce man-hours needed in completing repititive tasks.
 
-          This included: Automating data entry for containers' extra-activities and generating reports to flag low-occupancy yard slots to optimize
-          yard movement planning. 
+          Projects:
+          - Automating data entry for containers' extra-activities into business portal
+          - Automating report generation to flag low-occupancy yard slots to optimize yard movement planning.
+          - Creating Power BI workshop manual with detailed instructions for collecting, cleaning and visualizing data in Power BI dashboards.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -167,7 +171,7 @@ content:
       - Fishing
       - Cycling
       - Gym & Calisthenics
-      - *Never ending list of random hobbies I am bad at but enjoy*
+      - *Never ending list of random hobbies I am bad at but enjoy* <i class="fa-light fa-face-awesome"></i>
 
      # Look at this cool image  
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
