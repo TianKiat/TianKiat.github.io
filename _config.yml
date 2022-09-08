@@ -66,7 +66,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-right
         title: Bogos Binted
         # link_text: Project Website
         additional_links:
@@ -82,7 +82,7 @@ content:
           My main job as a gameplay programmer is to implement a 3D spline system that the player and enemies follow, as well as, create
           a "choreography" system for scripting of the combat of the game. This included spawning, moving between waypoints and timing of
           attack patterns of enemies seen in the game.
-      - layout: left
+      - layout: top-right
         title: Deep Learning Image Classification
         # link_text: Project Website
         additional_links:
@@ -97,7 +97,7 @@ content:
           
           This is just the start in my journey to learn more about ML and I look forward to researching
           and applying more novel solutions to solve real world problems!
-      - layout: left
+      - layout: top-right
         title: DC Metro Crime Data Exploration and Visualization
         # link_text: Project Website
         additional_links:
@@ -112,7 +112,7 @@ content:
           
           From this project, I learned to be more client and goal focused
           when building visualizations, as it is always about telling a story with the huge amounts of data you get.
-      - layout: left
+      - layout: top-right
         title: Robotic Process Automation (RPA) processes for PSA Singapore
         quote: >
           Developing and deploying RPA robots to aid PSA Singapore's Container Business Division.
