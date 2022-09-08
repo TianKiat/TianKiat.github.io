@@ -141,6 +141,19 @@ content:
         description: | # this will include new lines to allow paragraphs
             This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving at least 100+ man hours annually.
             In addition, I was able to conduct and supply teaching materials for data analytics and dashboard building workshops.
+      - layout: left
+        title: DigiPen Institute of Technology Singapore
+        link: https://www.digipen.edu.sg/
+        link_text: DigiPen Singapore
+        sub_title: Teacher's Assistant
+        caption: Sept 2020 - May 2022
+        quote: >
+          *"To teach is to learn twice over"* - Joseph Joubert
+        description: | # this will include new lines to allow paragraphs
+            After my first year in DigiPen Singapore, I became a teacher's assistant to assist the freshmen with foundational classes such as,
+            linear algebra, C/C++ programming, OOP and Data Structures & Algorithms. I believe that by teaching others, I gained a deeper understanding
+            of those topics. This is because, I had to gain greater insight into the underlying concepts and mechanism in those topics in order to explain
+            them in layman's terms.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
