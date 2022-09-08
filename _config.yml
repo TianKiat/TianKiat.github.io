@@ -58,6 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   and statistics, I am very keen to research and learn more about AI techniques and applying them in software and business contexts.
 
   Things I have done: Develop games, apps, ML models, BI dashboards, RPA robots.
+
   Things I want to do: Anything I find interesting!
 
 content:
@@ -69,7 +70,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title: DigiPen 3D Game Project
-            icon: fa-brands fa-google-drive
+            icon: fab fa-google-drive
             url: https://drive.google.com/file/d/1--vY17V-EgJs2cNvy4gAUTknxny2golQ/view?usp=drivesdk
         quote: >
           A 3D Wacky Sci-fi shooter game built using a custom C++ and C# engine. 
@@ -166,7 +167,7 @@ content:
       - Fishing
       - Cycling
       - Gym & Calisthenics
-      - <Never ending list of random hobbies I am bad at but enjoy>
+      - *Never ending list of random hobbies I am bad at but enjoy*
 
      # Look at this cool image  
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
