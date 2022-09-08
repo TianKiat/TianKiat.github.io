@@ -48,56 +48,79 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  How's it going? My Name is Tian Kiat and I am a software developer specialising in AI, Data Analytics with experience in Business Process Automation.
-  
-  I am a curious person that always tries to explore and experiment with new technologies and pick up new skills and experience along the way. 
-  
-  Developing games, apps, ML models, dashboards, RPA robots are just some of the things I have done and I am always keen to try something new!
+  How's it going? I am Tian Kiat, a software developer with 4 years of experience in game development with an interest in AI and data analytics.
+  I have made games using game engines built from scratch with C/C++/C# and commercial game engines such as Unity and Unreal.
 
-  I am fluent in: <mark> C++, C#, Python and JavaScript </mark>
+  I strongly believe that the curiousity and the drive to never stop learning is the key to success.
+  No one starts out as an expert in anything - the discipline and humility to learn the ropes is where you achieve self-actualization.
+  
+  During my study in DigiPen, I have gained an interest and curiousity in AI and data analytics. With a strong foundation in linear algebra, calculus
+  and statistics, I am very keen to research and learn more about AI techniques and applying them in software and business contexts.
+
+  Things I have done: Develop games, apps, ML models, BI dashboards, RPA robots.
+  Things I want to do: Anything I find interesting!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Bogos Binted
+        # link_text: Project Website
+        additional_links:
+          - title: DigiPen 3D Game Project
+            icon: fa-brands fa-google-drive
+            url: https://drive.google.com/file/d/1--vY17V-EgJs2cNvy4gAUTknxny2golQ/view?usp=drivesdk
+        quote: >
+          A 3D Wacky Sci-fi shooter game built using a custom C++ and C# engine. 
+        description: | # this will include new lines to allow paragraphs
+          This project is the final capstone project from my time in DigiPen. A 8-man project involving programmers and game designers.
+          I was in charge of writing the C++ API and data structures that binded onto our C# scripting layer. I was also the main gameplay programmer.
+          
+          My main job as a gameplay programmer is to implement a 3D spline system that the player and enemies follow, as well as, create
+          a "choreography" system for scripting of the combat of the game. This included spawning, moving between waypoints and timing of
+          attack patterns of enemies seen in the game.
+      - layout: top-middle
         title: Deep Learning Image Classification
-        link: github.com/TianKiat/ML-Naive-Bees
         # link_text: Project Website
         additional_links:
           - title:  TianKiat/ML-Naive-Bees
             icon: fab fa-github
             url: github.com/TianKiat/ML-Naive-Bees
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Using deep learning networks to classify images of BEES!
         description: | # this will include new lines to allow paragraphs
-          This project along with my other ML projects was done as part of my elective focus on AI. I learned a lot about the traditional sets of models in ML,
-          and in this project I built a deep learning classifier. 
+          This project along with my other ML projects was done as part of my elective focus on AI. I learned a lot about traditional models in ML,
+          and in this project I built a CNN image classifier. I learned a lot about <mark> Keras </mark> in this project.
           
           This is just the start in my journey to learn more about ML and I look forward to researching
           and applying more novel solutions to solve real world problems!
       - layout: top-middle
         title: DC Metro Crime Data Exploration and Visualization
-        link: github.com/TianKiat/dc-crime-data-exploration
         # link_text: Project Website
         additional_links:
           - title: TianKiat/dc-crime-data-exploration
             icon: fab fa-github
             url: github.com/TianKiat/dc-crime-data-exploration
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Learning Pandas, Seaborn and applying what I learned!
         description: | # this will include new lines to allow paragraphs
-          I started this little exercise to apply my knowledge of <mark>Pandas</mark> and <mark>Seaborn</mark> outside of school assignments. I focused on exploring and creating visuals that
+          I started this exercise to apply my knowledge of <mark>Pandas</mark> and <mark>Seaborn</mark> outside of school assignments. I focused on exploring and creating visuals that
           would aid in hypothesis testing and providing insights to the trends given in the dataset. 
           
           From this project, I learned to be more client and goal focused
           when building visualizations, as it is always about telling a story with the huge amounts of data you get.
+      - layout: top-middle
+        title: Robotic Process Automation (RPA) processes for PSA Singapore
+        quote: >
+          Developing and deploying RPA robots to aid PSA Singapore's Container Business Division.
+        description: | # this will include new lines to allow paragraphs
+          During my internship in PSA Singapore, I was part of the Container Business Division's Process Re-engineering department.
+          In this department, I was put in-charge of developing RPA robots using UiPath that would be rolled out to the different
+          terminals in PSA's ports in order to reduce man-hours needed in completing repititive tasks.
+
+          This included: Automating data entry for containers' extra-activities and generating reports to flag low-occupancy yard slots to optimize
+          yard movement planning. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -105,7 +128,7 @@ content:
       - layout: left
         title: PSA Singapore
         link: www.singaporepsa.com
-        # link_text: boringcompany.com
+        link_text: PSA Singapore
         sub_title: Robotics Process Developer and Data Analyst
         caption: May 2022 - Present
         quote: >
@@ -126,6 +149,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time in DigiPen, I was able to establish a strong foundation in computer science and mathematics. Due to the practical approach of my course,
           I also gained skills and experience in teamwork, communication, critical problem solving and project management.
+      - layout: left
+        title: Ngee Ann Polytechnic
+        caption: 2014 - 2017
+        sub_title: Diploma in Multimedia & Animation
+        quote: >
+          I was discovering my passion for technology and software.
+        description: | # this will include new lines to allow paragraphs
+          While studying in Ngee Ann, I was given many opportunites to explore and try out things in the arts/design, as well as, information technology
+          because my course was in Multimedia. I explored website design, game design, game programming, ArcViz, 3D game animation.
 
   - title: More About Me
     layout: text
@@ -134,7 +166,7 @@ content:
       - Fishing
       - Cycling
       - Gym & Calisthenics
-      - And plenty of other sports that I am not good at but enjoy playing xD
+      - <Never ending list of random hobbies I am bad at but enjoy>
 
      # Look at this cool image  
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
