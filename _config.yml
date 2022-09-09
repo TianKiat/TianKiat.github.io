@@ -48,7 +48,7 @@ linkedin_username: tiankiatng
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! <i class="fa-light fa-hand-wave"></i> I am Tian Kiat, a <mark>software developer</mark> with **4** years of experience in <mark>game development</mark> with an interest in <mark>AI</mark> and <mark>data analytics</mark>.
+  Hi! <i class="fa-light fa-hand-wave"></i> I am Tian Kiat, a software developer with 4 years of experience in game development with an interest in AI and data analytics.
   I have made games using game engines built from scratch with <mark>C/C++/C#</mark> and commercial game engines such as <mark>Unity</mark> and <mark>Unreal</mark>.
 
   I strongly believe that **curiosity** and drive to **keep on learning** is the key to success.
@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   and statistics, I am very keen to learn more about AI and apply them in software and business contexts.
 
 
-  Things I have done: Develop games, apps, <mark>ML</mark> models, <mark>BI</mark> dashboards, RPA robots.
+  Things I have done: Develop games, apps, ML models, BI dashboards, RPA robots.
 
   Things I want to do: Anything I find interesting!
 
@@ -120,7 +120,6 @@ content:
           During my internship in PSA Singapore, I was part of the Container Business Division's Process Re-engineering department.
           In this department, I was put in-charge of developing RPA robots using <mark>UiPath</mark> that would be rolled out to the different
           port terminals in order to reduce man-hours needed in completing repititive tasks.
-          A preliminary count of the man-hours saved from my RPA bots is **more than 880**.
 
           Projects:
           - Automating data entry for extra-activities incurred in the transhipment process into business portal
