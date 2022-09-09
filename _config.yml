@@ -48,17 +48,17 @@ linkedin_username: tiankiatng
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! <i class="fa-light fa-hand-wave"></i> I am Tian Kiat, a software developer with 4 years of experience in game development with an interest in AI and data analytics.
-  I have made games using game engines built from scratch with C/C++/C# and commercial game engines such as Unity and Unreal.
+  Hi! <i class="fa-light fa-hand-wave"></i> I am Tian Kiat, a <mark>software developer</mark> with **4** years of experience in <mark>game development</mark> with an interest in <mark>AI</mark> and <mark>data analytics</mark>.
+  I have made games using game engines built from scratch with <mark>C/C++/C#</mark> and commercial game engines such as <mark>Unity</mark> and <mark>Unreal</mark>.
 
-  I strongly believe that curiousity and drive to keep on learning is the key to success.
-  No one starts out knowing everything - the discipline and humility to learn the ropes is how you achieve self-actualization.
+  I strongly believe that **curiosity** and drive to **keep on learning** is the key to success.
+  No one starts out knowing everything - the **discipline** and **humility** to learn the ropes is how you achieve self-actualization.
   
   During my study in DigiPen, I have gained an interest in AI and data analytics. With a strong foundation in linear algebra, calculus
   and statistics, I am very keen to learn more about AI and apply them in software and business contexts.
 
 
-  Things I have done: Develop games, apps, ML models, BI dashboards, RPA robots.
+  Things I have done: Develop games, apps, <mark>ML</mark> models, <mark>BI</mark> dashboards, RPA robots.
 
   Things I want to do: Anything I find interesting!
 
@@ -74,10 +74,10 @@ content:
             icon: fab fa-google-drive
             url: https://drive.google.com/file/d/1--vY17V-EgJs2cNvy4gAUTknxny2golQ/view?usp=drivesdk
         quote: >
-          A 3D Wacky Sci-fi shooter game built using a custom C++ and C# engine. 
+          A 3D Wacky Sci-fi shooter game built using a custom C++and <C# engine. 
         description: | # this will include new lines to allow paragraphs
           This project is the final capstone project from my time in DigiPen. A 8-man project involving programmers and game designers.
-          I was in charge of writing the C++ API and data structures that binded onto our C# scripting layer. I was also the main gameplay programmer.
+          I was in charge of writing the <mark>C++</mark> API and data structures that binded onto our <mark>C#</mark> scripting layer. I was also the main gameplay programmer.
           
           My main job as a gameplay programmer is to implement a 3D spline system that the player and enemies follow, as well as, create
           a "choreography" system for scripting the combat of the game. This included spawning, moving between waypoints and timing
@@ -118,13 +118,15 @@ content:
           Developing and deploying RPA robots to aid PSA Singapore's Container Business Division.
         description: | # this will include new lines to allow paragraphs
           During my internship in PSA Singapore, I was part of the Container Business Division's Process Re-engineering department.
-          In this department, I was put in-charge of developing RPA robots using UiPath that would be rolled out to the different
+          In this department, I was put in-charge of developing RPA robots using <mark>UiPath</mark> that would be rolled out to the different
           port terminals in order to reduce man-hours needed in completing repititive tasks.
+          A preliminary count of the man-hours saved from my RPA bots is **more than 880**.
 
           Projects:
           - Automating data entry for extra-activities incurred in the transhipment process into business portal
           - Automating report generation to flag low-occupancy yard slots to optimize yard movement planning.
-          - Creating Power BI workshop manual with detailed instructions for collecting, cleaning and visualizing data in Power BI dashboards.
+          - Creating <mark>Power BI</mark> workshop manual with detailed instructions for collecting, cleaning and visualizing data in Power BI dashboards.
+          - Trainer for Power BI workshop for engineering departments - aided participants by answering and guiding them through exercises.
 
 
   - title: Experience # Title for the section
@@ -139,8 +141,8 @@ content:
         quote: >
           Automating business process and building dashboards by analysing business data.
         description: | # this will include new lines to allow paragraphs
-            This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving at least 100+ man hours annually.
-            In addition, I was able to conduct and supply teaching materials for data analytics and dashboard building workshops.
+            This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving more than **880** man-hours annually.
+            In addition, I was able given the opportunity to be a trainer for data analytics and dashboard building workshops.
 
             Additionally, I got to learn and experience how a large organization such as PSA operates their business units. It was very interesting
             to see how the organization's business units are structured and work together to keep the company on the cutting edge of the world's
@@ -155,7 +157,7 @@ content:
           "To teach is to learn twice over" - Joseph Joubert
         description: | # this will include new lines to allow paragraphs
             After my first year in DigiPen Singapore, I became a teacher's assistant to assist the freshmen with foundational classes such as,
-            linear algebra, C/C++ programming, OOP and Data Structures & Algorithms. I believe that by teaching others, I gained a deeper understanding
+            linear algebra, <mark>C/C++</mark> programming, <mark>OOP</mark> and Data Structures & Algorithms. I believe that by teaching others, I gained a deeper understanding
             of those topics. This is because, I had to gain greater insight into the underlying concepts and mechanism in those topics in order to explain
             them in layman's terms.
 
@@ -167,10 +169,10 @@ content:
         caption: 2019 - 2022
         sub_title: BSc Computer Science and Game Design
         quote: >
-          I was able to combine my love of games with my passion in computer science, this gave be the drive to learn and explore!
+          I was able to combine my love of games with my passion in computer science, this gave me the drive to learn and explore!
         description: | # this will include new lines to allow paragraphs
           During my time in DigiPen, I was able to establish a strong foundation in computer science and mathematics. Due to the practical approach of my course,
-          I also gained skills and experience in teamwork, communication, critical problem solving and project management.
+          I also gained skills and experience in **teamwork**, **communication**, **critical problem-solving** and **project management**.
       - layout: left
         title: Ngee Ann Polytechnic
         caption: 2014 - 2017
