@@ -71,10 +71,10 @@ content:
         # link_text: Project Website
         additional_links:
           - title: Game Trailer
-            icon: fa-duotone fa-film
+            icon: fad fa-film
             url: https://drive.google.com/file/d/1--vY17V-EgJs2cNvy4gAUTknxny2golQ/view?usp=drivesdk
           - title: Installer
-            icon: fa-brands fa-google-drive
+            icon: fab fa-google-drive
             url: https://drive.google.com/file/d/1o42CLI8AHd2HsOd_nCoWaj7Q333kLgnp/view?=uspdrivesdk
         quote: >
           A 3D Wacky Sci-fi shooter game built using a custom C++and <C# engine. 
