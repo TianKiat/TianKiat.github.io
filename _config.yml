@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Things I have done: Develop games, apps, ML models, BI dashboards, RPA robots.
 
-  Things I want to do: Anything I find interesting!
+  Things I want to do: Have an opportunity to work on an AI project that benefits people!
 
 content:
   - title: Projects # Title for the section
@@ -192,7 +192,7 @@ content:
       - Fishing
       - Cycling
       - Gym & Calisthenics
-      - *Never ending list of random hobbies I am bad at but enjoy* <i class="fa-light fa-face-awesome"></i>
+      - *Never ending list of random hobbies I am not particularly good at but enjoy :)* <i class="fa-light fa-face-awesome"></i>
 
      # Look at this cool image  
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
