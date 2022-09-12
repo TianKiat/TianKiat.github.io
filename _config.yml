@@ -71,7 +71,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title: Game Trailer
-            icon: fad fa-film
+            icon: fas fa-film
             url: https://drive.google.com/file/d/1--vY17V-EgJs2cNvy4gAUTknxny2golQ/view?usp=drivesdk
           - title: Installer
             icon: fab fa-google-drive
