@@ -77,7 +77,7 @@ content:
             icon: fab fa-google-drive
             url: https://drive.google.com/file/d/1o42CLI8AHd2HsOd_nCoWaj7Q333kLgnp/view?=uspdrivesdk
         quote: >
-          A 3D Wacky Sci-fi shooter game built using a custom C++and <C# engine. 
+          A 3D Wacky Sci-fi shooter game built using a custom C++ and C# engine. 
         description: | # this will include new lines to allow paragraphs
           This project is the final capstone project of my time in DigiPen. An 8-man project involving programmers and game designers.
           I was in charge of writing the <mark>C++</mark> API and data structures that bound onto our <mark>C#</mark> scripting layer. I was also the main gameplay programmer.
