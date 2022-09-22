@@ -63,7 +63,61 @@ about_content: | # this will include new lines to allow paragraphs
   Things I want to do: Have an opportunity to work on an AI project that benefits people!
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: DigiPen Institute of Technology Singapore
+        caption: 2019 - 2022
+        sub_title: BSc Computer Science and Game Design
+        quote: >
+          I was able to combine my love of games with my passion for computer science, this gave me the drive to learn and explore!
+        description: | # this will include new lines to allow paragraphs
+          During my time at DigiPen, I was able to establish a strong foundation in computer science and mathematics. Due to the practical approach of my course,
+          I also gained skills and experience in **teamwork**, **communication**, **critical problem-solving** and **project management**.
+      - layout: left
+        title: Ngee Ann Polytechnic
+        caption: 2014 - 2017
+        sub_title: Diploma in Multimedia & Animation
+        quote: >
+          I was discovering my passion for technology and software.
+        description: | # this will include new lines to allow paragraphs
+          While studying at Ngee Ann, I was given many opportunities to explore and try out things in the arts/design, as well as, information technology
+          because my course was in Multimedia. I explored website design, game design, game programming, archviz, and 3D game animation.
+
+  - title: Professional Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: PSA Singapore
+        link: www.singaporepsa.com
+        link_text: PSA Singapore
+        sub_title: Robotics Process Developer and Data Analyst
+        caption: May 2022 - Present
+        quote: >
+          Automating business processes and building dashboards by analysing business data.
+        description: | # this will include new lines to allow paragraphs
+            This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving more than **880** man-hours annually.
+            In addition, I was able given the opportunity to be a trainer for data analytics and dashboard building workshops.
+
+            Additionally, I got to learn and experience how a large organization such as PSA operates their business units. It was very interesting
+            to see how the organization's business units are structured and work together to keep the company on the cutting edge of the world's
+            transhipment industry.
+      - layout: left
+        title: DigiPen Institute of Technology Singapore
+        link: https://www.digipen.edu.sg/
+        link_text: DigiPen Singapore
+        sub_title: Teacher's Assistant
+        caption: Sept 2020 - May 2022
+        quote: >
+          "To teach is to learn twice over" - Joseph Joubert
+        description: | # this will include new lines to allow paragraphs
+            After my first year in DigiPen Singapore, I became a teacher's assistant to assist the freshmen with foundational classes such as
+            linear algebra, <mark>C/C++</mark> programming, <mark>OOP</mark> and Data Structures & Algorithms. I believe that by teaching others, I gained a deeper understanding
+            of those topics. This is because I had to gain greater insight into the underlying concepts and mechanisms in those topics in order to explain
+            them in layman's terms.
+
+  - title: Project Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -129,61 +183,6 @@ content:
           - Automating report generation to flag low-occupancy yard slots to optimize yard movement planning.
           - Creating <mark>Power BI</mark> workshop manual with detailed instructions for collecting, cleaning and visualizing data in Power BI dashboards.
           - Trainer for Power BI workshop for engineering departments - aided participants by answering and guiding them through exercises.
-
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: PSA Singapore
-        link: www.singaporepsa.com
-        link_text: PSA Singapore
-        sub_title: Robotics Process Developer and Data Analyst
-        caption: May 2022 - Present
-        quote: >
-          Automating business processes and building dashboards by analysing business data.
-        description: | # this will include new lines to allow paragraphs
-            This internship was extremely fruitful as I got to deploy RPA processes across PSA Singapore's terminals saving more than **880** man-hours annually.
-            In addition, I was able given the opportunity to be a trainer for data analytics and dashboard building workshops.
-
-            Additionally, I got to learn and experience how a large organization such as PSA operates their business units. It was very interesting
-            to see how the organization's business units are structured and work together to keep the company on the cutting edge of the world's
-            transhipment industry.
-      - layout: left
-        title: DigiPen Institute of Technology Singapore
-        link: https://www.digipen.edu.sg/
-        link_text: DigiPen Singapore
-        sub_title: Teacher's Assistant
-        caption: Sept 2020 - May 2022
-        quote: >
-          "To teach is to learn twice over" - Joseph Joubert
-        description: | # this will include new lines to allow paragraphs
-            After my first year in DigiPen Singapore, I became a teacher's assistant to assist the freshmen with foundational classes such as
-            linear algebra, <mark>C/C++</mark> programming, <mark>OOP</mark> and Data Structures & Algorithms. I believe that by teaching others, I gained a deeper understanding
-            of those topics. This is because I had to gain greater insight into the underlying concepts and mechanisms in those topics in order to explain
-            them in layman's terms.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: DigiPen Institute of Technology Singapore
-        caption: 2019 - 2022
-        sub_title: BSc Computer Science and Game Design
-        quote: >
-          I was able to combine my love of games with my passion for computer science, this gave me the drive to learn and explore!
-        description: | # this will include new lines to allow paragraphs
-          During my time at DigiPen, I was able to establish a strong foundation in computer science and mathematics. Due to the practical approach of my course,
-          I also gained skills and experience in **teamwork**, **communication**, **critical problem-solving** and **project management**.
-      - layout: left
-        title: Ngee Ann Polytechnic
-        caption: 2014 - 2017
-        sub_title: Diploma in Multimedia & Animation
-        quote: >
-          I was discovering my passion for technology and software.
-        description: | # this will include new lines to allow paragraphs
-          While studying at Ngee Ann, I was given many opportunities to explore and try out things in the arts/design, as well as, information technology
-          because my course was in Multimedia. I explored website design, game design, game programming, archviz, and 3D game animation.
 
   - title: More About Me
     layout: text
