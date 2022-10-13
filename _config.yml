@@ -183,17 +183,17 @@ content:
           - Automating report generation to flag low-occupancy yard slots to optimize yard movement planning.
           - Creating <mark>Power BI</mark> workshop manual with detailed instructions for collecting, cleaning and visualizing data in Power BI dashboards.
           - Trainer for Power BI workshop for engineering departments - aided participants by answering and guiding them through exercises.
-- layout: top-middle
-        title: Go Fishing Today
-        additional_links:
-          - title: TianKiat/go-fishing-today
-            icon: fab fa-github
-            url: tiankiat.github.io/go-fishing-today
-        quote: >
-          Web-app dashboard to check vital weather information before fishing!
-        description: | # this will include new lines to allow paragraphs
-          A personal project tied to my hobbie. It was devloped as an exercise to practice JavaScript, TypeScript, ReactJS.
-          It was also to practice semi-restful approach to building an app by pulling all information required from public APIs.
+        - layout: top-middle
+          title: Go Fishing Today
+          additional_links:
+            - title: TianKiat/go-fishing-today
+              icon: fab fa-github
+              url: tiankiat.github.io/go-fishing-today
+          quote: >
+            Web-app dashboard to check vital weather information before fishing!
+          description: | # this will include new lines to allow paragraphs
+            A personal project tied to my hobbie. It was devloped as an exercise to practice JavaScript, TypeScript, ReactJS.
+            It was also to practice semi-restful approach to building an app by pulling all information required from public APIs.
 
   - title: More About Me
     layout: text
